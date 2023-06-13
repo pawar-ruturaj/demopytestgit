@@ -1,0 +1,167 @@
+1686490556453	geckodriver	INFO	Listening on 127.0.0.1:55492
+1686490559520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYmJxBl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490559846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490559851	Marionette	INFO	Listening on port 55500
+WebDriver BiDi listening on ws://127.0.0.1:55493
+Read port: 55500
+1686490560144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55493/devtools/browser/7047e6aa-81ad-42a9-9360-86ff881de7f0
+1686490571370	Marionette	INFO	Stopped listening on port 55500
+Dynamically enable window occlusion 1
+[Parent 9668, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+!!! error running onStopped callback: TypeError: callback is not a function
+1686490822201	geckodriver	INFO	Listening on 127.0.0.1:55700
+1686490825267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4WHndi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490825590	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490825594	Marionette	INFO	Listening on port 55708
+Read port: 55708
+WebDriver BiDi listening on ws://127.0.0.1:55701
+1686490825712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55701/devtools/browser/8b93b897-40a0-413f-a2e8-919d99ab2e77
+1686490872674	geckodriver	INFO	Listening on 127.0.0.1:55809
+1686490875727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerGAZ1M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490876046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490876051	Marionette	INFO	Listening on port 55817
+WebDriver BiDi listening on ws://127.0.0.1:55810
+Read port: 55817
+1686490876349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55810/devtools/browser/fdf43910-f279-4f10-adcb-dd72cd94c2b1
+1686490889337	Marionette	INFO	Stopped listening on port 55817
+Dynamically enable window occlusion 1
+1686491019406	geckodriver	INFO	Listening on 127.0.0.1:55868
+1686491022453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUVmTaM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686491022788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686491022792	Marionette	INFO	Listening on port 55876
+Read port: 55876
+WebDriver BiDi listening on ws://127.0.0.1:55869
+1686491022940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55869/devtools/browser/433cf821-d7ee-4e37-ae6b-7242b58e1ff5
+1686491347025	geckodriver	INFO	Listening on 127.0.0.1:55986
+1686491350057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileqIFtYL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686491350379	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686491350385	Marionette	INFO	Listening on port 55994
+Read port: 55994
+WebDriver BiDi listening on ws://127.0.0.1:55987
+1686491350520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55987/devtools/browser/df187249-d798-4635-a7f0-85aead9d098f
+1686491358458	Marionette	INFO	Stopped listening on port 55994
+Dynamically enable window occlusion 1
+1686491591748	geckodriver	INFO	Listening on 127.0.0.1:56053
+1686491594791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilecPxxBV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686491595113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686491595118	Marionette	INFO	Listening on port 56061
+Read port: 56061
+WebDriver BiDi listening on ws://127.0.0.1:56054
+1686491595245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56054/devtools/browser/0dbd70f3-d693-48e5-b44d-eb23cd31e8a2
+1686491603428	Marionette	INFO	Stopped listening on port 56061
+Dynamically enable window occlusion 1
+1686492800805	geckodriver	INFO	Listening on 127.0.0.1:56138
+1686492803835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "--remote-debugging-port" "56139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileumdAlt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686492804157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686492804162	Marionette	INFO	Listening on port 56146
+WebDriver BiDi listening on ws://127.0.0.1:56139
+Read port: 56146
+1686492804471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56139/devtools/browser/4b60cc47-c6fa-49a1-8120-025858c0a7fa
+1686495851537	geckodriver	INFO	Listening on 127.0.0.1:56776
+1686495854575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegxfvR3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686495854892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686495854897	Marionette	INFO	Listening on port 56784
+WebDriver BiDi listening on ws://127.0.0.1:56777
+Read port: 56784
+1686495855182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56777/devtools/browser/f1fd3904-5b70-48ea-87d9-09c5b9756526
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+1686495863719	Marionette	INFO	Stopped listening on port 56784
+Dynamically enable window occlusion 1
+1686496844368	geckodriver	INFO	Listening on 127.0.0.1:56962
+1686496847414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAan5M3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686496847736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686496847741	Marionette	INFO	Listening on port 56972
+Read port: 56972
+WebDriver BiDi listening on ws://127.0.0.1:56963
+1686496847865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56963/devtools/browser/9b663bda-d12a-4483-bc93-cc4e5d033e12
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 3240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686496896351	geckodriver	INFO	Listening on 127.0.0.1:57146
+1686496899371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaNQhgi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686496899695	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686496899700	Marionette	INFO	Listening on port 57154
+WebDriver BiDi listening on ws://127.0.0.1:57147
+Read port: 57154
+1686496899994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57147/devtools/browser/44ff0cde-b902-4ca8-8bcc-fa88c0a7e813
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9126873611544123, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686496912000	Marionette	INFO	Stopped listening on port 57154
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1686497142954	geckodriver	INFO	Listening on 127.0.0.1:57646
+1686497145977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3ipyZZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686497146300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686497146306	Marionette	INFO	Listening on port 57654
+WebDriver BiDi listening on ws://127.0.0.1:57647
+Read port: 57654
+1686497146603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57647/devtools/browser/8a073e41-2ee7-4c56-b12d-17b39914d251
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 81: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9126873611544123, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 3482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686497333918	geckodriver	INFO	Listening on 127.0.0.1:57870
+1686497336948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileOGI2Tv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686497337274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686497337279	Marionette	INFO	Listening on port 57878
+WebDriver BiDi listening on ws://127.0.0.1:57871
+Read port: 57878
+1686497337566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57871/devtools/browser/49242cad-5705-4200-a2d9-9b1c678d0b88
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 5638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

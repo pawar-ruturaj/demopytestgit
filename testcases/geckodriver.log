@@ -1,0 +1,224 @@
+1686490519787	geckodriver	INFO	Listening on 127.0.0.1:55441
+1686490522856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileLBEzjg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490523207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490523212	Marionette	INFO	Listening on port 55449
+WebDriver BiDi listening on ws://127.0.0.1:55442
+Read port: 55449
+1686490523464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55442/devtools/browser/011d66d0-3f4c-4c64-9fba-ca1f014cfef8
+1686490537298	Marionette	INFO	Stopped listening on port 55449
+Dynamically enable window occlusion 1
+1686490712259	geckodriver	INFO	Listening on 127.0.0.1:55547
+1686490715325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilew1X1sE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490715656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490715660	Marionette	INFO	Listening on port 55555
+WebDriver BiDi listening on ws://127.0.0.1:55548
+Read port: 55555
+1686490715962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55548/devtools/browser/12892b21-0b97-4349-be9f-1dbdc91d4b46
+1686490726023	Marionette	INFO	Stopped listening on port 55555
+Dynamically enable window occlusion 1
+1686490757317	geckodriver	INFO	Listening on 127.0.0.1:55597
+1686490760371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAlYnSm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490760702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490760706	Marionette	INFO	Listening on port 55605
+WebDriver BiDi listening on ws://127.0.0.1:55598
+Read port: 55605
+1686490761006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55598/devtools/browser/01559903-36a5-4258-aef6-9ec8c0f8a670
+1686490773605	Marionette	INFO	Stopped listening on port 55605
+Dynamically enable window occlusion 1
+1686490787680	geckodriver	INFO	Listening on 127.0.0.1:55647
+1686490790746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilewrm7pM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490791101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490791106	Marionette	INFO	Listening on port 55655
+WebDriver BiDi listening on ws://127.0.0.1:55648
+Read port: 55655
+1686490791509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55648/devtools/browser/d8b254c2-77b8-4905-b092-32a21059ad91
+1686490799707	Marionette	INFO	Stopped listening on port 55655
+Dynamically enable window occlusion 1
+1686490847263	geckodriver	INFO	Listening on 127.0.0.1:55751
+1686490850354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMmXyVV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686490850700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686490850705	Marionette	INFO	Listening on port 55759
+WebDriver BiDi listening on ws://127.0.0.1:55752
+Read port: 55759
+1686490851028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55752/devtools/browser/2e9cee3a-3fd9-4d84-bb62-2e36915c9a06
+1686490858311	Marionette	INFO	Stopped listening on port 55759
+Dynamically enable window occlusion 1
+1686491064072	geckodriver	INFO	Listening on 127.0.0.1:55927
+1686491067121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDwccMc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686491067454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686491067459	Marionette	INFO	Listening on port 55935
+WebDriver BiDi listening on ws://127.0.0.1:55928
+Read port: 55935
+1686491067758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55928/devtools/browser/8700e1c9-dcfe-4f3e-8f75-67cc5e4ad64e
+1686491076201	Marionette	INFO	Stopped listening on port 55935
+Dynamically enable window occlusion 1
+1686495799531	geckodriver	INFO	Listening on 127.0.0.1:56615
+1686495802580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevMV6Sd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686495802913	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686495802918	Marionette	INFO	Listening on port 56625
+WebDriver BiDi listening on ws://127.0.0.1:56616
+Read port: 56625
+1686495803216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56616/devtools/browser/1686da3b-7675-4623-a89a-cd815ab94c1c
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9126873611544123, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 5291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686499588988	Marionette	INFO	Stopped listening on port 56625
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFjwwkL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686496968507	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686496968511	Marionette	INFO	Listening on port 57311
+WebDriver BiDi listening on ws://127.0.0.1:57302
+Read port: 57311
+1686496968810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57302/devtools/browser/4f8a7a71-9c91-4939-9718-471fe991c560
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 3003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686499588622	Marionette	INFO	Stopped listening on port 57311
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilePs2paR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686497104063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686497104068	Marionette	INFO	Listening on port 57508
+WebDriver BiDi listening on ws://127.0.0.1:57501
+Read port: 57508
+1686497104366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57501/devtools/browser/6c112b33-1e3a-4e48-b946-688a4a0d60a8
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 81: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 2036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686499588581	Marionette	INFO	Stopped listening on port 57508
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+es.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686497167715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686497167720	Marionette	INFO	Listening on port 57802
+Read port: 57802
+WebDriver BiDi listening on ws://127.0.0.1:57793
+1686497167845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57793/devtools/browser/832582bd-0367-4e20-9e1b-2ca0db9f0f0f
+1686497170722	Marionette	INFO	Stopped listening on port 57802
+Dynamically enable window occlusion 1
+1686539778163	geckodriver	INFO	Listening on 127.0.0.1:62043
+1686539781198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerUOM7v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686539781550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686539781555	Marionette	INFO	Listening on port 62052
+WebDriver BiDi listening on ws://127.0.0.1:62044
+Read port: 62052
+1686539781810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62044/devtools/browser/52d01883-90a0-4efd-a779-286f6faa75c2
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 81: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 1380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 4486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686539805612	Marionette	INFO	Stopped listening on port 62052
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1686539826774	geckodriver	INFO	Listening on 127.0.0.1:62224
+1686539829832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileSqsSfG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686539830167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686539830171	Marionette	INFO	Listening on port 62233
+WebDriver BiDi listening on ws://127.0.0.1:62225
+Read port: 62233
+1686539830462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62225/devtools/browser/99ec6267-e7a8-479a-b4d5-906ed8b63946
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 81: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 6233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686540402049	Marionette	INFO	Stopped listening on port 62233
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileZHDSgl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686539937003	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686539937009	Marionette	INFO	Listening on port 62447
+WebDriver BiDi listening on ws://127.0.0.1:62439
+Read port: 62447
+1686539937272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62439/devtools/browser/aa2310cd-d7b1-4a40-93e7-8a2599b2e920
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9126873611544123, line 81: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 5170 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686540402069	Marionette	INFO	Stopped listening on port 62447
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "62630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile0ES0vV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686539979989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686539979994	Marionette	INFO	Listening on port 62638
+WebDriver BiDi listening on ws://127.0.0.1:62630
+Read port: 62638
+1686539980291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62630/devtools/browser/acf24c17-30b7-40a5-b061-a8ff4d110463
+JavaScript warning: https://excalibur.pinacalabs.com/674387.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8692878304946020, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9620429535585055, ca-pub-8692878304946020
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9620429535585055, line 79: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9126873611544123, ca-pub-8692878304946020
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 4620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TH3Zs8Ev3pHjJfWkL7wPbYNWbVKLYksLSDPKh6nMP2Q.js line 2 > eval line 1082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686540402182	Marionette	INFO	Stopped listening on port 62638
+Dynamically enable window occlusion 1
